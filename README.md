@@ -5,3 +5,4 @@ These little data structures and algorithms (DSA) projects were developed on pra
 ## [Algorithms](./algorithms/)
 
 - [A* Search](./algorithms/a_star_search.py)
+- [Floyd's Cycle Detection](./algorithms/floyds_cycle_detection.py)
