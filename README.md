@@ -4,6 +4,7 @@ These little data structures and algorithms (DSA) projects were developed on pra
 
 ## [Data Structures](./data-structures/)
 - [Linked List Queue](./data-structures/linked-list-queue/)
+- [JSON Parser](./data-structures/json_parser.c)
 
 ## [Algorithms](./algorithms/)
 
