@@ -3,8 +3,9 @@
 These little data structures and algorithms (DSA) projects were developed on practical work experience.
 
 ## [Data Structures](./data-structures/)
-- [Linked List Queue](./data-structures/linked-list-queue/)
 - [JSON Parser](./data-structures/json_parser.c)
+- [Linked List Queue](./data-structures/linked-list-queue/)
+- [String Cleaner](./data-structures/string_cleaner.c)
 
 ## [Algorithms](./algorithms/)
 
