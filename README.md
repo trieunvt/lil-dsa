@@ -11,3 +11,4 @@ These little data structures and algorithms (DSA) projects were developed on pra
 
 - [A* Search](./algorithms/a_star_search.py)
 - [Floyd's Cycle Detection](./algorithms/floyds_cycle_detection.py)
+- [Images Euclidean Distance Calculator](./algorithms/images_euclidean_distance_calculator.py)
